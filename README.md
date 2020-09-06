@@ -5,11 +5,11 @@ This project aims to classify the emotion on a person's face into one of seven c
 
 Python 3.x, OpenCV 3 or 4, Tensorflow, TFlearn, Keras
 Open terminal and enter the file path to the desired directory and install the following libraries
-       pip install numpy
-       pip install opencv-python
-       pip install tensorflow
-       pip install tflearn
-       pip install keras
+       pip install numpy  
+       pip install opencv-python  
+       pip install tensorflow  
+       pip install tflearn    
+       pip install keras  
 
 ## Execution
 
