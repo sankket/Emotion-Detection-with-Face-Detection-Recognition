@@ -4,7 +4,7 @@ This project aims to classify the emotion on a person's face into one of seven c
 ##  Dependencies
 
 Python 3.x, OpenCV 3 or 4, Tensorflow, TFlearn, Keras
-Open terminal and enter the file path to the desired directory and install the following libraries
+Open terminal and enter the file path to the desired directory and install the following libraries.
        pip install numpy  
        pip install opencv-python  
        pip install tensorflow  
@@ -13,6 +13,6 @@ Open terminal and enter the file path to the desired directory and install the f
 
 ## Execution
 
-Unzip the 'code.zip' file in the same location
-Open terminal and enter the file path to the desired directory and paste the command given below
-python kerasmodel.py --mode display
+Unzip the 'code.zip' file in the same location  
+Open terminal and enter the file path to the desired directory and paste the command given below  
+python kerasmodel.py --mode display  
