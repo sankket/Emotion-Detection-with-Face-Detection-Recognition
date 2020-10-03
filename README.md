@@ -17,4 +17,4 @@ Unzip the 'code.zip' file in the same location
 Open terminal and enter the file path to the desired directory and paste the command given below  
 python kerasmodel.py --mode display  
 
-Also published paper on emotion detection using face Recognition.
+## Also published paper on emotion detection using face Recognition.(ijtrsrd)
